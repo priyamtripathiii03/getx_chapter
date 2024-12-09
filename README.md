@@ -1,3 +1,3 @@
-# getx Counter App
+# Getx Counter App
 
 
